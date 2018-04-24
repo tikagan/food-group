@@ -9,8 +9,6 @@ export default class UserHome extends Component {
       <div>
         <div className={styles.container}>
           <h2>UserHome</h2>
-          <Link to="/pantry">Pantry</Link>
-          <Link to="/grocerylists">GroceryLists</Link>
         </div>
       </div>
     );
